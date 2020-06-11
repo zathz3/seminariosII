@@ -37,7 +37,7 @@ a{
   height: 350px;
   background: gray;
   background-repeat: no-repeat;
-  background-image: url("img/background.jpg");
+  background-image: url("background.jpg");
   background-size: 2000px 2000px;
   display: inline-block;
   width: 100%;
@@ -47,7 +47,7 @@ a{
   height: 800px;
   background: gray;
   background-size: 1000px 1000px;
-    background-image: url("img/abu5.jpeg");
+    background-image: url("abu5.jpeg");
   display: inline-block;
   background-repeat: repeat;
   width: 100%;
@@ -56,7 +56,7 @@ a{
   height: 3300px;
   background: gray;
   background-size: 5000px 5000px;
-  background-image: url("img/background.jpg");
+  background-image: url("background.jpg");
   display: inline-block;
   width: 100%;
 }
@@ -64,7 +64,7 @@ a{
   height: 3200px;
   background: gray;
   background-size: 5000px 5000px;
-  background-image: url("img/background.jpg");
+  background-image: url("background.jpg");
   display: inline-block;
   width: 100%;
 }
@@ -72,7 +72,7 @@ a{
   height: 3200px;
   background: gray;
   background-size: 5000px 5000px;
-  background-image: url("img/background.jpg");
+  background-image: url("background.jpg");
   display: inline-block;
   width: 100%;
 }
@@ -80,7 +80,7 @@ a{
   height: 3200px;
   background: gray;
   background-size: 5000px 5000px;
-  background-image: url("img/background.jpg");
+  background-image: url("background.jpg");
   display: inline-block;
   width: 100%;
 }
@@ -88,7 +88,7 @@ a{
   height: 3200px;
   background: gray;
   background-size: 5000px 5000px;
-  background-image: url("img/background.jpg");
+  background-image: url("background.jpg");
   display: inline-block;
   width: 100%;
 }
@@ -97,7 +97,7 @@ a{
   background: gray;
   background-size: 5000px 5000px;
   background-repeat: no-repeat;
-  background-image: url("img/background.jpg");
+  background-image: url("background.jpg");
   display: inline-block;
   width: 100%;
 }
