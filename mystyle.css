@@ -1,0 +1,112 @@
+html{
+  scroll-behavior: smooth;
+}
+
+body{
+  margin: 0;
+  padding: 0;
+  font-family: oblique;
+  font-weight: bold;
+}
+nav{
+  width:100%;
+  background: #262626;
+  overflow: hidden;
+  position: fixed;
+  top: 0;
+}
+
+ul{
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+li{
+float: left;
+}
+a{
+  padding: 20px;
+  width: 100px;
+  display: block;
+  text-decoration: none;
+  color: #fff;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+#section0{
+  height: 350px;
+  background: gray;
+  background-repeat: no-repeat;
+  background-image: url("img/background.jpg");
+  background-size: 2000px 2000px;
+  display: inline-block;
+  width: 100%;
+}
+
+#section1{
+  height: 800px;
+  background: gray;
+  background-size: 1000px 1000px;
+    background-image: url("img/abu5.jpeg");
+  display: inline-block;
+  background-repeat: repeat;
+  width: 100%;
+}
+#section2{
+  height: 3300px;
+  background: gray;
+  background-size: 5000px 5000px;
+  background-image: url("img/background.jpg");
+  display: inline-block;
+  width: 100%;
+}
+#section3{
+  height: 3200px;
+  background: gray;
+  background-size: 5000px 5000px;
+  background-image: url("img/background.jpg");
+  display: inline-block;
+  width: 100%;
+}
+#section4{
+  height: 3200px;
+  background: gray;
+  background-size: 5000px 5000px;
+  background-image: url("img/background.jpg");
+  display: inline-block;
+  width: 100%;
+}
+#section5{
+  height: 3200px;
+  background: gray;
+  background-size: 5000px 5000px;
+  background-image: url("img/background.jpg");
+  display: inline-block;
+  width: 100%;
+}
+#section6{
+  height: 3200px;
+  background: gray;
+  background-size: 5000px 5000px;
+  background-image: url("img/background.jpg");
+  display: inline-block;
+  width: 100%;
+}
+#section7{
+  height: 3400px;
+  background: gray;
+  background-size: 5000px 5000px;
+  background-repeat: no-repeat;
+  background-image: url("img/background.jpg");
+  display: inline-block;
+  width: 100%;
+}
+h1{
+  margin: 150px;
+  color: white;
+  text-align: center;
+  padding: 0;
+  font-family: serif;
+  font-weight: 900;
+  font-size: 100px;
+}
